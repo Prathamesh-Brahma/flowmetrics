@@ -301,17 +301,11 @@ The project currently passes both the TypeScript check and the Next.js productio
 
 ### Live Website
 
-To be added after Vercel deployment.
+https://flowmetrics-ten.vercel.app/
 
 ### Sanity Studio
 
-To be added after Sanity Studio deployment.
-
----
-
-## Repository
-
-https://github.com/Prathamesh-Brahma/flowmetrics
+https://flowmetricscms.sanity.studio/
 
 ---
 
